@@ -2,7 +2,7 @@
 
 Frontend for **PulseForm** — a survey & feedback platform. Build a survey, share a link, collect answers, and watch the results fill in as clean, visual charts.
 
-This repository contains the web client built with **React**. The backend lives in a separate repo: [`PulseForm-API`](../PulseForm-API).
+This repository contains the web client built with **React**. The backend lives in a separate repo: [PulseForm-API](https://github.com/blearthysenii/PulseForm-API).
 
 ---
 
